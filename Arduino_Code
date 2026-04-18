@@ -1,3 +1,4 @@
+//Note:- first upload zip file on arduino 
 #include <SoftwareSerial.h>
 #include <RBDdimmer.h>
 
